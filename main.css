@@ -23,7 +23,7 @@ h1 {
 }
 h2 {
     font-size: 125%;
-	color: var(--accent-color);
+	color: rebeccapurple;
 	padding: 0.5em;
 }
 h3 {
@@ -51,6 +51,6 @@ footer {
     font-size: 90%;
 }
 :root {
-	--primary-color: rebeccapurple; 
-    
+	--primary-color: rebeccapurple;
+	--accent-color: rebeccapurple;
 }
