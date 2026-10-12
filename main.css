@@ -1,0 +1,56 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+	border: 9px double;
+	border-color: rebeccapurple;
+	border-radius: 0px 0px 0px 0px;
+    width: 90%;
+    height: 90%;
+    margin-left: 6%;
+    
+}
+
+* {
+	margin: 0;
+	padding:0.6em;
+	box-sizing: border-box;
+    
+}
+h1 {
+    font-size: 150%;
+	color: rebeccapurple;
+	padding: 0.6em;
+}
+h2 {
+    font-size: 125%;
+	color: var(--accent-color);
+	padding: 0.5em;
+}
+h3 {
+    font-size: 115%;
+	padding: 0em;
+}
+
+cite {
+    color: rebeccapurple;
+    font-style: normal;
+    font-weight: bold;
+}
+img{
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 0.7em;
+}
+footer {
+	text-align: center;
+	border: 2px solid rebeccapurple;
+	border-radius: 0px 0px 0px 0px;
+	height: auto;
+    font-weight: bold;
+    font-size: 90%;
+}
+:root {
+	--primary-color: rebeccapurple; 
+    
+}
